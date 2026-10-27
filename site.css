@@ -7,7 +7,7 @@
         }
         @font-face{
             font-family: "Segoe UI";
-            src: url('../fonts/segoeuil.ttf');
+            src: url('../segoeuil.ttf');
         }
         .main-container {
             height: 100%;
